@@ -37,10 +37,10 @@ This project is licensed under the Lotus Flowers License - see the LICENSE.md fi
 
 
 ## Live Preview
-* [Live Site](https://roshan-sharmaa.netlify.app/)
+* [Live Site](https://incredible-douhua-441a21.netlify.app/)
 
 ## Acknowledgments
 
 Inspiration, code snippets etc.
-* [Live Site](https://roshan-sharmaa.netlify.app/).  
+* [Live Site](https://incredible-douhua-441a21.netlify.app/).  
   
