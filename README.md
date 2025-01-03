@@ -6,7 +6,7 @@ Personal Portfolio showcasing my Projet,Education,Objectives,etc. Fully responsi
 
 
 ## Preview
-![image](https://github.com/user-attachments/assets/80bf47da-ba35-438f-81ec-44ccc64d76bb)
+![Screenshot (9)](https://github.com/user-attachments/assets/792bfeb9-5d08-485a-8b46-5e651e383070)
 
 
 
